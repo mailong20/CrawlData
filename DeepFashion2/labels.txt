@@ -1,0 +1,13 @@
+short_sleeved_shirt áo
+long_sleeved_shirt áo 
+short_sleeved_outwear áo
+long_sleeved_outwear áo
+vest áo
+sling áo
+shorts quần
+trousers quần
+skirt quần
+short_sleeved_dress dress
+long_sleeved_dress dress
+vest_dress 
+sling_dress
